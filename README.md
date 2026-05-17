@@ -33,8 +33,8 @@ The application features a secure, role-based authentication system that directs
 
 Follow these steps to run the project locally on your machine:
 
-*1. Clone the repository:*
-bash
+*1. Clone the repository:* <br>
+bash <br>
 git clone [https://github.com/YourUsername/Grocery-Management-System.git](https://github.com/YourUsername/Grocery-Management-System.git)
 
 
@@ -48,7 +48,7 @@ git clone [https://github.com/YourUsername/Grocery-Management-System.git](https:
 * Open the .slnx file in Visual Studio.
 * Open the DatabaseConnection.cs file.
 * Update the connection string to match your local SQL Server instance:
-  @"Data Source=localhost;Initial Catalog=GroceryDB;Integrated Security=True;TrustServerCertificate=True"
+ <br> @"Data Source=localhost;Initial Catalog=GroceryDB;Integrated Security=True;TrustServerCertificate=True"
 
 *4. Build and Run:*
 * Press Start in Visual Studio. 
